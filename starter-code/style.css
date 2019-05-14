@@ -1,0 +1,27 @@
+#red,
+#blue {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+#red {
+    background-color: red;
+    top: 50px;
+}
+
+#blue {
+    background-color: blue;
+    top: 200px;
+}
+
+button {
+    padding: 30px;
+    border-radius: 100px;
+    position: absolute;
+    top: 350px;
+    left: 350px;
+    font-size: 60px;
+    background: gray;
+
+}
